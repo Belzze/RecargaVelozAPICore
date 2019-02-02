@@ -1,0 +1,11 @@
+D:\Proyectos-\RecargaVelozAPICore\RecargaVelozAPICore\bin\Debug\netcoreapp2.1\RecargaVelozAPICore.deps.json
+D:\Proyectos-\RecargaVelozAPICore\RecargaVelozAPICore\bin\Debug\netcoreapp2.1\RecargaVelozAPICore.runtimeconfig.json
+D:\Proyectos-\RecargaVelozAPICore\RecargaVelozAPICore\bin\Debug\netcoreapp2.1\RecargaVelozAPICore.runtimeconfig.dev.json
+D:\Proyectos-\RecargaVelozAPICore\RecargaVelozAPICore\bin\Debug\netcoreapp2.1\RecargaVelozAPICore.dll
+D:\Proyectos-\RecargaVelozAPICore\RecargaVelozAPICore\obj\Debug\netcoreapp2.1\RecargaVelozAPICore.csprojAssemblyReference.cache
+D:\Proyectos-\RecargaVelozAPICore\RecargaVelozAPICore\obj\Debug\netcoreapp2.1\RecargaVelozAPICore.csproj.CoreCompileInputs.cache
+D:\Proyectos-\RecargaVelozAPICore\RecargaVelozAPICore\obj\Debug\netcoreapp2.1\RecargaVelozAPICore.RazorAssemblyInfo.cache
+D:\Proyectos-\RecargaVelozAPICore\RecargaVelozAPICore\obj\Debug\netcoreapp2.1\RecargaVelozAPICore.RazorAssemblyInfo.cs
+D:\Proyectos-\RecargaVelozAPICore\RecargaVelozAPICore\obj\Debug\netcoreapp2.1\RecargaVelozAPICore.AssemblyInfoInputs.cache
+D:\Proyectos-\RecargaVelozAPICore\RecargaVelozAPICore\obj\Debug\netcoreapp2.1\RecargaVelozAPICore.AssemblyInfo.cs
+D:\Proyectos-\RecargaVelozAPICore\RecargaVelozAPICore\obj\Debug\netcoreapp2.1\RecargaVelozAPICore.RazorTargetAssemblyInfo.cache
